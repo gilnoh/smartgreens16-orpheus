@@ -1,0 +1,57 @@
+One of the main challenge in the course of future energy grid is the
+lack of flexibility to integrate high penetrations of volatile
+renewable energy sources in the power grids. The electricity grid
+model is transforming from a hierarchic centralized architecture
+towards a decentralized one. One of the questions is how a temporary
+energy surplus at one time can be managed either for the grid at 
+low-generation times (e.g. storage) or for utilization more
+efficiently in time- and location-effective solutions (e.g. local
+consumption, local transformation). Hybrid energy networks are seen as
+one of the opportunities to provide solutions for managing this
+imbalance \cite{}. 
+
+A hybrid energy network is an energy system operated across different 
+domains whereby energy will be transformed between the different
+grids, in which it can be consumed, stored, transported with a grid in 
+its specific form or eventually further transformed into another
+energy form between different grids, at different times and/or
+locations. The advantages of such an approach are the increase in
+reliability, flexibility and the synergy effect \cite{}. 
+
+The development of smart grids through all energy grids independently
+have been progressed and supported with extensive research through
+many years now. One prominent next step in the energy network
+evolution path will be the connection and integration of different
+energy grids (multiple carrier grids) – realizing Hybrid Energy
+Networks efficiently operated through coupling points (e.g. CHP and
+power to gas plants) and managed cooperatively. The energy operators
+can take advantage of the characteristics of each energy carrier and
+exploit, for example, the possibility of transmitting energy as
+electricity and storing energy as gas and as warm water in
+accumulators. 
+
+Investigation of this hybrid evolution path is still in its
+infancy. There has been some investigation of individual components,
+or possible control strategies, but they still lack the full
+investigation of checking the impact of hybridization in real-world
+environment. We believe that such a thorough investigation, which
+includes actual cities and energy grids, will show and open varying
+and exciting new possibilities for future energy grids.  
+
+In this paper, we introduces an investigation platform that can
+investigate the impact of hybrid-grids and their co-operative control
+strategies The proposed process has two major characteristics:
+a) Real cities: the investigation starts from two European cities to
+identify general setups for Hybrid energy grids. b) Holistic approach:
+for each identified hybrid scenario, the process takes dual
+investigation via co-simulation and economical-model projection.  
+
+(hmm) The target of the holistic investigation is to understand the
+range of flexibility given through the coupling of energy grids to 
+understand to which level and which quality of ICT, sensor/monitoring
+and automatic control technologies embedded into holistic methods for 
+distributed system intelligence have to be realized. 
+
+We believe that the investigation platform enables us to investigate
+not only the technical impacts, but also social-/economical aspects to 
+identify future evolutionary path for energy grids. 
